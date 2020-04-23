@@ -1,4 +1,5 @@
-# nerds
+# nerds 
+Домен https://vladimirzimin.github.io/Nerds/
  
  1. Общие технические требования
  
